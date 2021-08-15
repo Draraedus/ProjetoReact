@@ -1,4 +1,4 @@
-# Bem Vindo ao meu Projeto em ReactJS!
+# Bem Vindo(a) ao meu Projeto em ReactJS!
 
 - Feito para o teste da LabLuby.
 - Não tinha nenhum conhecimento sobre tudo que foi usado, foi igual aquela fala de JK: 50 anos em 5, mas no meu caso foram 5 dias. :laughing:
