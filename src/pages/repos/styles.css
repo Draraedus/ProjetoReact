@@ -1,0 +1,100 @@
+.RepoBody {
+    height: 100%;
+}
+
+.RepoTopBar {
+    height: 55px;
+    width: 100%;
+    color: #1f1f1f;
+    background-color: #1f1f1f;
+}
+
+.RepoTopBarfix{
+  display: flex;
+}
+
+.RepoTopBarButton {
+    width: 50px;
+    height: 100;
+}
+
+.RepoTopBarTittle {
+  font-size: 15px;
+  width: 100%;
+  color:white;
+  margin: auto;
+  padding-left: 80px;
+}
+
+.repocontainer {
+  height: 100%;
+  width: 100%;
+  padding: 10px;
+  padding-top: 0px;
+  margin-top: 55px;
+  overflow: auto;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 140px;
+}
+
+.RepoRenderTitle {
+    display: flex;
+}
+  
+.RepoRenderTitleDecoration {
+    margin: auto 0;
+    margin-right: 20px;
+    width: 1px;
+    background: #ffce00;
+    height: 40px;
+    border-right: 10px solid #ffce00;
+    border-radius: 0px 30px 30px 0px;
+}
+  
+.RepoRenderTitleLabel {
+    font-size: 15px;
+    width: 100%;
+    color:white;
+    margin: auto;
+}
+  
+.reporenderdescripition {
+    margin-left: 30px;
+}
+  
+.reporendercontainer {
+    padding-top: 20px;
+    border: 1px solid #434343;
+    padding-bottom: 15px;
+}
+
+.reporenderdescripitiontext {
+    font-size: 12px;
+    font-weight: 400;
+    color: white;
+    width: 100%;
+    height: 30px;
+    line-height: 1.3;
+    margin-top: 10px;
+}
+
+.reporendercontainericons {
+  display: flex;
+  padding-top: 10px;
+}
+
+.reporenderfirsticons{
+  flex: 1;
+  margin: auto;
+}
+
+.reporenderstars {
+    font-size: 12px;
+    font-weight: 400;
+    color: white;
+    width: 100%;
+    height: 30px;
+    line-height: 1.3;
+    margin-top: 10px;
+}

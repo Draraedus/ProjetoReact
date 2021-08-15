@@ -1,0 +1,90 @@
+.FollowersBody {
+    height: 100%;
+}
+
+.FollowersTopBar {
+    height: 55px;
+    width: 100%;
+    color: #1f1f1f;
+    background-color: #1f1f1f;
+}
+
+.FollowersTopBarfix{
+    display: flex;
+}
+
+.FollowersTopBarButton {
+    width: 50px;
+    height: 100;
+}
+
+.FollowersTopBarTittle {
+font-size: 15px;
+width: 100%;
+color:white;
+margin: auto;
+padding-left: 80px;
+}
+
+.FollowersImageContainer {
+    width: 60px;
+    margin: auto;
+    align-items: center;
+}
+
+.FollowersImage {
+    width: 60px;
+    height: 60px;
+    border: 3px solid white;
+    border-radius: 300px;
+    background: #292929;
+    overflow: hidden;
+}
+
+.Followerscontainerhead {
+    background-color: #292929;
+    height: 100%;
+    width: 100%;
+    margin-top: 55px;
+    overflow-y: auto;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 140px;
+}
+  
+.FollowersTitle {
+      display: flex;
+      height: 100%;
+      overflow: hidden;
+}
+    
+.FollowersTitleDecoration {
+    margin: auto 0;
+    margin-right: 20px;
+    width: 1px;
+    background: #ffce00;
+    height: 40px;
+    border-right: 10px solid #ffce00;
+    border-radius: 0px 30px 30px 0px;
+    overflow: hidden;
+}
+    
+.FollowersTitleLabel {
+      font-size: 15px;
+      width: 100%;
+      overflow: hidden;
+      color:white;
+      margin: auto;
+      padding-left: 40px;
+}
+    
+.Followerscontainer {
+      height: 85px;
+      border: 1px solid #434343;
+      overflow: hidden;
+}
+
+.FollowersArrow {
+    margin: auto;
+    padding-right: 10px;
+}

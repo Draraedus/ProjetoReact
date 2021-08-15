@@ -1,0 +1,22 @@
+.NavBarHead {
+    height: 55px;
+    width: 100%;
+}
+
+.NavBarBody {
+    justify-content: center;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+
+.NavBarTab {
+    color: #292929;
+    text-decoration: none;
+    text-align: center;
+    font-size: 70%;
+    font-weight: bolder;
+}
+
+

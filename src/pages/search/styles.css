@@ -1,0 +1,36 @@
+div.SearchBar {
+    background-color: #292929;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form.SearchTable {
+    display: flex;
+    text-align: center;
+    min-width: 500;
+    min-height: 500;
+}
+
+.SearchInput {
+    color: #292929;
+}
+
+.SearchButton {
+    background-color: #ffce00;
+    border-radius: 10px;
+    overflow: hidden;
+    min-width: 200px;
+    min-height: 50px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.SearchName {
+    color: #292929;
+    font-weight: 600;
+    font-size: 20px;
+}

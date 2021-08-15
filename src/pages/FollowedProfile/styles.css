@@ -1,0 +1,141 @@
+.FollowedProfileBody {
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.FollowedProfileTopBar {
+    height: 5%;
+    background-color: #1f1f1f;
+}
+
+.FollowedProfileTop{
+    background-color: #1f1f1f;
+    color: #1f1f1f;
+}
+
+.FollowedProfileTopBarLogo {
+    text-decoration: none;
+    font-size: 100%;
+    font-weight: bolder;
+    padding-left: 10px;
+}
+
+.FollowedProfileTopBarButton {
+    margin-left: auto;
+    background-color: #1f1f1f;
+    width: 110px;
+}
+
+.FollowedProfileTopBarWords {
+    color: white;
+    font-size: 100%;
+    font-weight: lighter;
+}
+
+.FollowedProfileMidContainer {
+    width: 100%;
+    overflow: auto;
+    padding-bottom: 40px;
+}
+
+.FollowedProfileHead {
+    font-family: sans-serif;
+    color: white;
+    font-size: 17px;
+    width: 100%;
+}
+
+.FollowedProfileHeadImageContainer {
+    background: #1f1f1f;
+    height: 150px;
+    width: 100%;
+}
+
+.FollowedProfileHeadImage {
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100px;
+    height: 100px;
+    border: 3px solid white;
+    border-radius: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background: #292929;
+}
+
+.FollowedProfileHeadInfoLabel {
+    margin-top: 100px;
+}
+
+.FollowedProfileHeadInfoTittle {
+    display: flex;
+}
+
+.FollowedProfileHeadInfoDecoration {
+    margin: auto 0;
+    margin-right: 20px;
+    width: 1px;
+    background: #ffce00;
+    height: 40px;
+    border-right: 10px solid #ffce00;
+    border-radius: 0px 30px 30px 0px;
+}
+
+.FollowedProfileHeadInfoTittleText {
+   margin: auto 0;
+   font-size: 27px;
+   font-weight: bold;
+   color: white;
+}
+
+.FollowedProfileHeadInfoDescripition {
+  margin-left: 20px;
+  margin-top: -20px;
+}
+
+.FollowedProfileHeadInfoDescripitionText {
+    font-weight: lighter;
+}
+
+.FollowedProfileMidBar {
+    margin-top: 20px;
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.FollowedProfileMidBarButton {
+    background-color: #383838;
+    border-color: #383838;
+    border-radius: 0%;
+    width: 33.3%;
+}
+
+.FollowedProfileMidBarButtonTittle {
+    margin-bottom: -10px;
+}
+
+.FollowedProfileBioTittleLabel {
+    margin: auto 0;
+    margin-right: 20px;
+    width: 1px;
+    background: #ffce00;
+    height: 40px;
+    border-right: 10px solid #ffce00;
+    border-radius: 0px 30px 30px 0px;
+}
+
+.FollowedProfileBioTittleText{
+    margin-top: -38px;
+    margin-left: 22px;
+    font-size: 27px;
+    font-weight: bold;
+    color: white;
+}
+
+.FollowedProfileBioDescripitionText {
+    margin-left: 13px;
+    font-weight: lighter;
+    color: white;
+}

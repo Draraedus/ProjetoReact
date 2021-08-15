@@ -1,0 +1,88 @@
+.FollowingBody {
+    height: 100%;
+}
+
+.FollowingTopBar {
+    height: 55px;
+    width: 100%;
+    color: #1f1f1f;
+    background-color: #1f1f1f;
+}
+
+.FollowingTopBarfix{
+    display: flex;
+}
+
+.FollowingTopBarButton {
+    width: 50px;
+    height: 100;
+}
+
+.FollowingTopBarTittle {
+    font-size: 15px;
+    width: 100%;
+    color:white;
+    margin: auto;
+    padding-left: 80px;
+}
+
+.FollowingImageContainer {
+    width: 60px;
+    margin: auto;
+    align-items: center;
+}
+
+.FollowingImage {
+    width: 60px;
+    height: 60px;
+    border: 3px solid white;
+    border-radius: 300px;
+    background: #292929;
+    overflow: hidden;
+}
+
+.Followingcontainerhead {
+    background-color: #292929;
+    height: 100%;
+    width: 100%;
+    margin-top: 55px;
+    overflow-y: auto;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 140px;
+}
+  
+.FollowingTitle {
+      display: flex;
+      height: 100%;
+}
+    
+.FollowingTitleDecoration {
+    margin: auto 0;
+    margin-right: 20px;
+    width: 1px;
+    background: #ffce00;
+    height: 40px;
+    border-right: 10px solid #ffce00;
+    border-radius: 0px 30px 30px 0px;
+}
+    
+.FollowingTitleLabel {
+      font-size: 15px;
+      width: 100%;
+      overflow: hidden;
+      color:white;
+      margin: auto;
+      padding-left: 40px;
+}
+    
+.Followingcontainer {
+      height: 85px;
+      border: 1px solid #434343;
+}
+
+
+.FollowingArrow {
+    margin: auto;
+    padding-right: 10px;
+}
